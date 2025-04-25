@@ -5,7 +5,7 @@ import time
 
 # Set up client
 client = OpenAI(
-    api_key="sk-7defcd40a1dd469aafa128b1a0111788",
+    api_key="1234",
     base_url="https://dashscope-intl.aliyuncs.com/compatible-mode/v1",
 )
 
